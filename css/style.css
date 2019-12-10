@@ -1,0 +1,32 @@
+/* $color-primary: #E9EDE3;
+$color-secondary: #FA845B;
+$color-pale: #FCF7F2;
+$color-dark: #383E41; */
+
+
+
+footer{
+    height: 100px;
+    background-color: #FA845B;
+}
+
+.aboutMe {
+    background-color: #FCF7F2;
+}
+
+#project1{
+    background-color: #E9EDE3;
+}
+
+#project2{
+    background-color: #383E41;
+    color: #FA845B;
+}
+
+#project3{
+    background-color: #FCF7F2;
+}
+
+.socialLink{
+    color: rgb(29, 130, 197);
+}
